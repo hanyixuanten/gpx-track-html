@@ -1,0 +1,17 @@
+# 忽略 HTML 文件（生成的地图文件）
+*.html
+
+# 忽略 GPX 文件（原始轨迹数据文件）
+*.gpx
+
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+
+# 环境文件
+.env
+venv/
+.venv/
